@@ -12,7 +12,7 @@ Since this article was published in 2012, Covid-19 did not appear. The impact of
 
 Article Source: Tasci, M., & Burgen, E. (2012, February 6). Job creation by small and large firms over the business cycle. website. Retrieved December 2, 2021, from https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-trends/2012-economic-trends/et-20120206-job-creation-by-small-and-large-firms-over-the-business-cycle.aspx. 
 
-Dataset Involved:
+Dataset Involved:  
 Business Employment Dynamics(BDE) dataset : https://www.bls.gov/bdm/bdmfirmsize.htm#SIZE1
 COVID-19 daily cases trend in the U.S. dataset: https://covid.cdc.gov/covid-data-tracker/#trends_dailycases
 COVID-19 daily vaccinations trend in the U.S. dataset: https://covid.cdc.gov/covid-data-tracker/#vaccination-trends_vacctrends-total-change
