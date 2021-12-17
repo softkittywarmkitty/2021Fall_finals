@@ -1,0 +1,158 @@
+Table 1. Private sector firm-level gross job gains and job losses
+
+Seasonally adjusted: Dynamic method
+
+500 to 999 employees
+
+(In thousands)
+
+                                                     Gross job gains                          Gross job losses
+Year  3 months ended  Net change(1)     Total     Expanding      Opening         Total     Contracting    Closing
+                                                    firms         firms                       firms        firms
+
+1992  September               26          272         261            11            246          235           11
+      December                25          269         263             6            244          232           12
+ 
+1993  March                   42          283         276             7            241          231           10
+      June                    66          276         271             5            210          200           10
+      September               48          294         288             6            246          232           14
+      December                59          302         296             6            243          229           14
+ 
+1994  March                   54          312         302            10            258          248           10
+      June                    60          300         292             8            240          226           14
+      September               84          322         315             7            238          233            5
+      December                57          314         310             4            257          249            8
+ 
+1995  March                   52          322         314             8            270          260           10
+      June                    28          291         282             9            263          253           10
+      September               82          341         332             9            259          243           16
+      December                27          312         303             9            285          269           16
+ 
+1996  March                    7          323         313            10            316          303           13
+      June                    52          322         312            10            270          261            9
+      September               52          340         328            12            288          274           14
+      December                65          341         331            10            276          264           12
+ 
+1997  March                   23          341         331            10            318          304           14
+      June                    40          327         318             9            287          272           15
+      September               67          365         349            16            298          283           15
+      December                66          364         353            11            298          282           16
+ 
+1998  March                   80          404         391            13            324          307           17
+      June                    14          347         336            11            333          315           18
+      September               55          355         344            11            300          285           15
+      December                44          355         346             9            311          295           16
+ 
+1999  March                   17          375         363            12            358          341           17
+      June                    43          345         331            14            302          290           12
+      September               44          350         343             7            306          296           10
+      December                83          366         359             7            283          277            6
+ 
+2000  March                   70          395         387             8            325          316            9
+      June                    45          348         342             6            303          295            8
+      September               28          349         343             6            321          309           12
+      December                14          344         338             6            330          319           11
+ 
+2001  March                  -27          355         351             4            382          360           22
+      June                   -85          293         290             3            378          367           11
+      September             -110          272         267             5            382          373            9
+      December               -82          278         272             6            360          353            7
+ 
+2002  March                  -23          322         314             8            345          331           14
+      June                   -19          295         288             7            314          302           12
+      September               -7          293         290             3            300          290           10
+      December               -15          289         285             4            304          296            8
+ 
+2003  March                  -25          293         290             3            318          309            9
+      June                   -33          272         269             3            305          300            5
+      September                4          283         279             4            279          272            7
+      December                12          282         276             6            270          263            7
+ 
+2004  March                   29          302         299             3            273          264            9
+      June                    44          302         297             5            258          254            4
+      September               12          288         284             4            276          269            7
+      December                48          306         302             4            258          250            8
+ 
+2005  March                   21          295         292             3            274          267            7
+      June                    45          304         303             1            259          254            5
+      September               60          317         314             3            257          249            8
+      December                 8          284         282             2            276          269            7
+ 
+2006  March                   64          296         293             3            232          230            2
+      June                    43          300         298             2            257          255            2
+      September               14          280         276             4            266          264            2
+      December                23          290         288             2            267          264            3
+ 
+2007  March                   41          287         285             2            246          242            4
+      June                    30          296         295             1            266          263            3
+      September               -3          274         272             2            277          275            2
+      December                17          284         282             2            267          267            0
+ 
+2008  March                   -5          258         256             2            263          261            2
+      June                   -23          272         270             2            295          292            3
+      September              -57          251         250             1            308          305            3
+      December              -111          243         242             1            354          351            3
+ 
+2009  March                 -185          188         186             2            373          369            4
+      June                  -131          225         223             2            356          354            2
+      September              -39          245         244             1            284          282            2
+      December               -19          240         239             1            259          257            2
+ 
+2010  March                   11          234         232             2            223          222            1
+      June                    55          283         280             3            228          227            1
+      September               37          277         275             2            240          235            5
+      December                40          279         277             2            239          238            1
+ 
+2011  March                   29          240         239             1            211          210            1
+      June                    32          274         272             2            242          239            3
+      September               77          301         298             3            224          223            1
+      December                19          264         261             3            245          244            1
+ 
+2012  March                   65          266         265             1            201          200            1
+      June                    61          294         292             2            233          231            2
+      September               34          284         282             2            250          248            2
+      December                30          277         276             1            247          244            3
+ 
+2013  March                   68          284         283             1            216          215            1
+      June                    40          290         288             2            250          248            2
+      September               33          280         279             1            247          246            1
+      December                41          290         288             2            249          249            0
+ 
+2014  March                   48          276         274             2            228          227            1
+      June                    61          301         301             0            240          237            3
+      September               34          287         286             1            253          251            2
+      December                58          302         300             2            244          242            2
+ 
+2015  March                   24          268         267             1            244          242            2
+      June                    48          307         305             2            259          257            2
+      September               37          293         292             1            256          254            2
+      December                46          302         299             3            256          255            1
+ 
+2016  March                    5          256         255             1            251          250            1
+      June                    22          297         296             1            275          273            2
+      September               60          318         317             1            258          257            1
+      December                 3          277         277             0            274          273            1
+ 
+2017  March                   60          284         284             0            224          223            1
+      June                    44          310         309             1            266          265            1
+      September                0          288         286             2            288          286            2
+      December                52          299         298             1            247          246            1
+ 
+2018  March                   65          285         283             2            220          219            1
+      June                    33          307         305             2            274          272            2
+      September               13          300         299             1            287          285            2
+      December                45          295         291             4            250          249            1
+ 
+2019  March                   48          286         286             0            238          235            3
+      June                    33          308         306             2            275          273            2
+      September                4          286         285             1            282          281            1
+      December                28          294         292             2            266          265            1
+ 
+2020  March                  -29          255         254             1            284          282            2
+      June                -1,122          135         134             1          1,257        1,243           14
+      September              273          497         492             5            224          223            1
+      December               153          367         365             2            214          214            0
+ 
+2021  March                   97          328         324             4            231          230            1
+ 
+(1) Net change is the difference between total gross job gains and total gross job losses.

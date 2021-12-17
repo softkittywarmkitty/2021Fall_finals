@@ -1,0 +1,158 @@
+Table 1. Private sector firm-level gross job gains and job losses
+
+Seasonally adjusted: Dynamic method
+
+50 to 99 employees
+
+(In thousands)
+
+                                                     Gross job gains                          Gross job losses
+Year  3 months ended  Net change(1)     Total     Expanding      Opening         Total     Contracting    Closing
+                                                    firms         firms                       firms        firms
+
+1992  September               80          587         541            46            507          463           44
+      December                44          576         532            44            532          482           50
+ 
+1993  March                   33          565         520            45            532          485           47
+      June                    45          550         511            39            505          457           48
+      September              113          604         562            42            491          444           47
+      December                95          604         560            44            509          465           44
+ 
+1994  March                   57          590         543            47            533          485           48
+      June                    60          578         534            44            518          465           53
+      September              137          634         585            49            497          455           42
+      December                83          608         567            41            525          478           47
+ 
+1995  March                   82          623         575            48            541          494           47
+      June                     9          572         526            46            563          513           50
+      September               96          635         588            47            539          484           55
+      December                74          632         582            50            558          504           54
+ 
+1996  March                   49          622         575            47            573          522           51
+      June                    10          587         540            47            577          522           55
+      September               72          628         577            51            556          504           52
+      December               101          644         594            50            543          493           50
+ 
+1997  March                   76          641         593            48            565          513           52
+      June                    25          588         543            45            563          510           53
+      September              102          656         607            49            554          500           54
+      December                75          657         606            51            582          510           72
+ 
+1998  March                   51          662         596            66            611          541           70
+      June                    14          616         559            57            602          533           69
+      September               59          630         584            46            571          512           59
+      December                97          648         605            43            551          499           52
+ 
+1999  March                   25          642         589            53            617          555           62
+      June                    32          619         570            49            587          534           53
+      September               71          656         608            48            585          526           59
+      December               105          669         623            46            564          509           55
+ 
+2000  March                   79          681         625            56            602          544           58
+      June                    21          624         580            44            603          548           55
+      September               50          649         604            45            599          541           58
+      December                27          623         583            40            596          543           53
+ 
+2001  March                  -35          619         574            45            654          591           63
+      June                   -85          581         540            41            666          611           55
+      September              -98          554         511            43            652          594           58
+      December               -79          557         516            41            636          587           49
+ 
+2002  March                  -27          580         536            44            607          559           48
+      June                    -6          570         528            42            576          530           46
+      September              -10          560         521            39            570          525           45
+      December               -26          541         507            34            567          525           42
+ 
+2003  March                  -35          549         510            39            584          541           43
+      June                   -13          547         512            35            560          519           41
+      September               15          549         514            35            534          496           38
+      December                24          556         518            38            532          495           37
+ 
+2004  March                   54          584         546            38            530          492           38
+      June                    60          573         538            35            513          474           39
+      September               43          566         529            37            523          483           40
+      December                47          570         535            35            523          490           33
+ 
+2005  March                   34          566         528            38            532          497           35
+      June                    62          573         540            33            511          478           33
+      September               45          578         545            33            533          495           38
+      December                28          561         529            32            533          503           30
+ 
+2006  March                   94          593         564            29            499          471           28
+      June                    41          572         540            32            531          500           31
+      September               25          556         527            29            531          501           30
+      December                34          561         531            30            527          499           28
+ 
+2007  March                   41          562         536            26            521          493           28
+      June                    37          567         539            28            530          501           29
+      September              -13          530         503            27            543          517           26
+      December                15          553         525            28            538          510           28
+ 
+2008  March                  -11          527         500            27            538          511           27
+      June                   -28          529         502            27            557          529           28
+      September              -60          501         475            26            561          534           27
+      December              -177          458         432            26            635          609           26
+ 
+2009  March                 -284          402         381            21            686          658           28
+      June                  -125          466         441            25            591          566           25
+      September              -51          454         431            23            505          482           23
+      December               -30          463         437            26            493          471           22
+ 
+2010  March                   -4          447         426            21            451          432           19
+      June                    87          515         489            26            428          409           19
+      September               40          483         461            22            443          423           20
+      December                28          494         469            25            466          443           23
+ 
+2011  March                   57          477         455            22            420          402           18
+      June                    73          510         485            25            437          419           18
+      September               75          511         486            25            436          418           18
+      December                16          475         450            25            459          439           20
+ 
+2012  March                  101          511         489            22            410          393           17
+      June                    71          518         494            24            447          429           18
+      September               25          487         463            24            462          443           19
+      December                37          487         465            22            450          429           21
+ 
+2013  March                   70          501         479            22            431          410           21
+      June                    58          514         491            23            456          437           19
+      September               29          491         467            24            462          443           19
+      December                43          496         474            22            453          433           20
+ 
+2014  March                   67          499         477            22            432          412           20
+      June                    95          536         511            25            441          421           20
+      September               50          511         486            25            461          441           20
+      December                61          518         492            26            457          432           25
+ 
+2015  March                   29          492         468            24            463          440           23
+      June                    87          543         518            25            456          436           20
+      September               36          505         480            25            469          451           18
+      December                37          514         491            23            477          454           23
+ 
+2016  March                   29          498         476            22            469          449           20
+      June                    55          531         506            25            476          454           22
+      September               34          520         494            26            486          466           20
+      December                20          503         478            25            483          462           21
+ 
+2017  March                   91          528         506            22            437          418           19
+      June                    60          539         514            25            479          460           19
+      September              -29          484         462            22            513          492           21
+      December                66          524         502            22            458          436           22
+ 
+2018  March                   75          519         497            22            444          427           17
+      June                    65          544         520            24            479          459           20
+      September              -17          494         473            21            511          491           20
+      December                68          525         503            22            457          437           20
+ 
+2019  March                   69          516         497            19            447          429           18
+      June                    45          537         515            22            492          473           19
+      September              -15          492         470            22            507          490           17
+      December                56          524         499            25            468          446           22
+ 
+2020  March                  -57          472         452            20            529          506           23
+      June                -1,291          290         275            15          1,581        1,514           67
+      September              254          674         647            27            420          404           16
+      December               147          563         541            22            416          399           17
+ 
+2021  March                  101          530         510            20            429          412           17
+ 
+(1) Net change is the difference between total gross job gains and total gross job losses.
